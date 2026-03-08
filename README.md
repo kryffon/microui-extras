@@ -4,7 +4,7 @@
 
 ## demos
 
-- ![font](./assets/microui_font_renderer.mp4)
+<video src="./assets/microui_font_renderer.mp4" controls></video>
 
 ## acknowledgements
 
